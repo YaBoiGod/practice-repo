@@ -4,9 +4,13 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Pre-calculus
 
-- Introduction to data science
+| Prefix        | Number  | Name | Credits              |
+| :-------------| :-------| :--------| :-------------------|
+|**COP**        | **2073**| _Introduction to Data Science_| 3|
+|**MAC**| **1147**| _Pre-Cal Algebra/Trig_| 4|
+
+
 
 
 **Hobbies:**
